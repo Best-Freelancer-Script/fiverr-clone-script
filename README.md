@@ -1,8 +1,6 @@
 
 ## Launch a Profitable Gig Marketplace in 24 Hours with Ready-made Fiverr Clone
 
-![Image](https://private-user-images.githubusercontent.com/41329075/459382239-d12a425f-8a8f-480a-bba4-147fa933693d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA5MzY2NzksIm5iZiI6MTc1MDkzNjM3OSwicGF0aCI6Ii80MTMyOTA3NS80NTkzODIyMzktZDEyYTQyNWYtOGE4Zi00ODBhLWJiYTQtMTQ3ZmE5MzM2OTNkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI2VDExMTI1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzN2IyMjg3MGZmMWE3ZTcxOWYwOTJiODQ4NWQ2OTBmMTNjMzZjNWFmM2E2OGMwODc3ZjIyNGVkYWVlNGYxNjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7KIzL2ssveX4Gcs0S-LQXf87pNULe14Gs5twM2vadrc)
-
 [Best Fiverr Script](https://www.bestfreelancerscript.com) offers a feature-rich and fully customizable ready-made Fiverr clone-1Gigs exclusively designed for startups and entrepreneurs. By using our software, you can build an open source micro job platform like Fiverr within 24 hours. If you are a startup and looking to launch your freelance marketplace within a quick time, our Fiverr clone open source script is an ideal option for you.
 
 ### Key Features of the Software
